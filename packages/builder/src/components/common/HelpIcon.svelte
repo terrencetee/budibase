@@ -5,7 +5,7 @@
 <a target="_blank" href="https://github.com/Budibase/budibase/discussions">
   <div class="inner hoverable">
     <div class="hidden hoverable">
-      <Body size="S">Need help? Go to our forums</Body>
+      <Body size="S">Need help??? Go to our forums</Body>
     </div>
     <Icon name="Help" size="XXL" />
   </div>
